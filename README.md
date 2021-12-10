@@ -1,6 +1,24 @@
 # ssm整合的demo
 
+这是第一个小demo，简简单单的一个crud
+
 # 效果图
+
+![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/1.png)
+
+![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/2.png)
+
+![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/3.png)
+
+![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/4.png)
+
+![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/5.png)
+
+![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/6.png)
+
+![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/7.png)
+
+![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/8.png)
 
 # 技术栈
 
@@ -16,4 +34,4 @@
 
 还涉及到许多的开发细节：Bootstrap搭建页面，MyBatis逆向工程使用，@ResponseBody注解完成ajax，jquery前端校验，后端jsr303校验等
 
-可以快速开发一个完整的CRUD功能
+可以快速开发一个完整的crud功能
