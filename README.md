@@ -35,3 +35,6 @@
 还涉及到许多的开发细节：Bootstrap搭建页面，MyBatis逆向工程使用，@ResponseBody注解完成ajax，jquery前端校验，后端jsr303校验等
 
 可以快速开发一个完整的crud功能
+
+☯：https://gitee.com/zybfsyqs/ssm-crud-demo
+☯：https://github.com/zybfsyqs/ssm-crud-demo
