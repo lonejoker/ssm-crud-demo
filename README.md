@@ -2,6 +2,10 @@
 
 这是第一个小demo，简简单单的一个crud
 
+☯gitee：https://gitee.com/zybfsyqs/ssm-crud-demo
+
+☯github：https://github.com/zybfsyqs/ssm-crud-demo
+
 # 效果图
 
 ![](https://gitee.com/zybfsyqs/project-pic/raw/master/ssmdemo/demo1/1.png)
@@ -36,5 +40,3 @@
 
 可以快速开发一个完整的crud功能
 
-☯：https://gitee.com/zybfsyqs/ssm-crud-demo
-☯：https://github.com/zybfsyqs/ssm-crud-demo
