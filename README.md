@@ -4,21 +4,21 @@
 
 # 效果图
 
-![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/1.png)
+![](https://gitee.com/zybfsyqs/project-pic/raw/master/ssmdemo/demo1/1.png)
 
-![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/2.png)
+![](https://gitee.com/zybfsyqs/project-pic/raw/master/ssmdemo/demo1/2.png)
 
-![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/3.png)
+![](https://gitee.com/zybfsyqs/project-pic/raw/master/ssmdemo/demo1/3.png)
 
-![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/4.png)
+![](https://gitee.com/zybfsyqs/project-pic/raw/master/ssmdemo/demo1/4.png)
 
-![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/5.png)
+![](https://gitee.com/zybfsyqs/project-pic/raw/master/ssmdemo/demo1/5.png)
 
-![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/6.png)
+![](https://gitee.com/zybfsyqs/project-pic/raw/master/ssmdemo/demo1/6.png)
 
-![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/7.png)
+![](https://gitee.com/zybfsyqs/project-pic/raw/master/ssmdemo/demo1/7.png)
 
-![](https://gitee.com/zybfsyqs/picture/raw/master/myblogpic/ssmdemo/8.png)
+![](https://gitee.com/zybfsyqs/project-pic/raw/master/ssmdemo/demo1/8.png)
 
 # 技术栈
 
